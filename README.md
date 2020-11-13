@@ -1,1 +1,1 @@
-this is the sample code for the map automate processing for the FLICCA project
+this is the sample code for the map automate processing using Python embbeded in the ArcMap.
